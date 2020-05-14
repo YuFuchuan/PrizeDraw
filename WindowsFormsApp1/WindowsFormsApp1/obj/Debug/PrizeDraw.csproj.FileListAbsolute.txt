@@ -1,0 +1,10 @@
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PrizeDraw.exe.config
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PrizeDraw.exe
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PrizeDraw.pdb
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.csprojAssemblyReference.cache
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.Form1.resources
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.Properties.Resources.resources
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.csproj.GenerateResource.cache
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.csproj.CoreCompileInputs.cache
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.exe
+D:\VS项目\cs_rjgc_use\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PrizeDraw.pdb
